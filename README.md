@@ -1,6 +1,6 @@
 # Leaf Removal Management System
 
-A C++ console application for managing leaf-removal service projects and employees.
+A C++ console application for managing leaf removal service projects and employees.
 
 ## Features
 
@@ -40,8 +40,8 @@ Run on macOS/Linux with `./leaf-removal` or on Windows with `leaf-removal.exe`.
 
 ## Concepts Demonstrated
 
-Object-oriented programming, classes and encapsulation, header/source separation, static class members, vectors, object relationships, CRUD-style operations, input validation, and formatted console output.
+Programming with objects, classes and encapsulation, header/source separation, static class members, vectors, object relationships, CRUD operations, input validation, and formatted console output.
 
 ## About
 
-This project models a small service business where employees can be assigned to customer projects. Each project stores its area and per-square-yard fee and calculates the total service charge.
+This project models a small service business where employees can be assigned to customer projects. Each project stores its area and fee per square yard and calculates the total service charge.
